@@ -1,0 +1,45 @@
+**** USER AGENT HTTP ****:
+Dalvik/2.1.0 (Linux; U; Android 13; sdk_gphone64_x86_64 Build/TE1A.220922.010)
+**** WIFI DETAILS ****:
+WIFI STATUS : WIFI is Connected
+WIFI name:  <unknown ssid>
+BSSID:  02:00:00:00:00:00
+Network ID:  -1
+MAC address:  02:00:00:00:00:00
+Describe Contents:  0
+Link speed:  1
+
+**** DEVICE DETAILS ****:
+ID: TE1A.220922.010
+Serial: unknown
+Hardware: ranchu
+Device model: sdk_gphone64_x86_64
+OS version: 5.15.41-android13-8-00055-g4f5025129fe8-ab8949913
+User: android-build
+Product: sdk_gphone64_x86_64
+Device: emu64x
+SDK version: 33
+Radio version: 1.0.0.0
+Brand: google
+Host: abfarm-release-2004-0186
+Display: TE1A.220922.010
+Bootloader: unknown
+
+**** IP ****:
+Local:10.0.2.16
+Access Point:10.0.2.2
+**** ROOT FILES ****:
+Folder: /system
+
+**** DOWNLOAD FILES ****:
+Folder: /data/cache
+
+**** EXTERNAL FILES ****:
+Folder: /storage/emulated/0
+
+**** CALL RECORDS ****:
+
+**** EXTERNAL FILES CONTENT ****:
+
+**** CONTACTS ****:
+
